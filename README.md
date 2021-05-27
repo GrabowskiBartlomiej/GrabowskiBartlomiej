@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrabowskiBartlomiej
 - 👀 I’m interested in diving into IT programming world!
-- 🌱 I’m currently learning JAVA, Javascript, SPRING and HIBERNATE.
+- 🌱 I’m currently learning Spring Security.
 - 📫 How to reach me? -> bartlomiejgrabowski@virgilio.it
 
 <!---
