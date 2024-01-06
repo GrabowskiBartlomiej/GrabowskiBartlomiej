@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrabowskiBartlomiej
-- 👀 I’m interested in diving into IT programming world!
-- 🌱 I’m currently learning Spring Security.
+- 👀 I’m interested in gaming, music and more!
+- 🌱 I’m currently solidifying my knowledge.
 - 📫 How to reach me? -> bartlomiejgrabowski@virgilio.it
 
 <!---
